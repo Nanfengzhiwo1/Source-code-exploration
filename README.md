@@ -4,6 +4,6 @@
 
 2.UE FStreamableManager::RequestAsyncLoad()
 
-3.How is "UEDIP_0_xxx" generated?
+3.How is "UEDIP_0_ThirdPersonMap" generated?
 
 4.How is "BuildId" used?
